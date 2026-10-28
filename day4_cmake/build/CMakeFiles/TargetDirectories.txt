@@ -1,8 +1,0 @@
-/home/mukesh/dp_tasks/day4_cmake/build/CMakeFiles/edit_cache.dir
-/home/mukesh/dp_tasks/day4_cmake/build/CMakeFiles/rebuild_cache.dir
-/home/mukesh/dp_tasks/day4_cmake/build/src/CMakeFiles/kinematics.dir
-/home/mukesh/dp_tasks/day4_cmake/build/src/CMakeFiles/edit_cache.dir
-/home/mukesh/dp_tasks/day4_cmake/build/src/CMakeFiles/rebuild_cache.dir
-/home/mukesh/dp_tasks/day4_cmake/build/apps/CMakeFiles/ackermann_app.dir
-/home/mukesh/dp_tasks/day4_cmake/build/apps/CMakeFiles/edit_cache.dir
-/home/mukesh/dp_tasks/day4_cmake/build/apps/CMakeFiles/rebuild_cache.dir

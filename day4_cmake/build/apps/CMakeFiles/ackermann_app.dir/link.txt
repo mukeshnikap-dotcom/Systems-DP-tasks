@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/ackermann_app.dir/main.cpp.o -o ackermann_app  ../src/libkinematics.a 
